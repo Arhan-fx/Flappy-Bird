@@ -1,10 +1,10 @@
-### **Flappy Bird **
+### Flappy Bird 
 
 This project is a Python implementation of the classic Flappy Bird game using the Pygame library. Fly through the pipes and aim for the highest score!
 
 ---
 
-### **Features**
+### Features
 
 - **Realistic Physics:** Smooth bird movements and gravity simulation.
 - **Dynamic Gameplay:** Randomly generated pipes and varying gaps.
@@ -14,7 +14,7 @@ This project is a Python implementation of the classic Flappy Bird game using th
 
 ---
 
-### **Installation**
+### Installation
 
 1. Clone or download this repository.
 2. Install [Python](https://www.python.org/downloads/) (version 3.7+ is recommended).
@@ -32,7 +32,7 @@ This project is a Python implementation of the classic Flappy Bird game using th
 
 ---
 
-### **How to Play**
+### How to Play
 
 1. Run the game:
    ```bash
@@ -45,7 +45,7 @@ This project is a Python implementation of the classic Flappy Bird game using th
 
 ---
 
-### **Controls**
+### Controls
 
 - **SPACE:** Flap wings.
 - **R:** Restart after game over.
@@ -53,13 +53,13 @@ This project is a Python implementation of the classic Flappy Bird game using th
 
 ---
 
-### **Game Assets**
+### Game Assets
 
 All game assets are located in the `assets/` folder. Ensure the file paths and names are correct for the game to function properly.
 
 ---
 
-### **To-Do List**
+### To-Do List
 
 - Add a high-score tracking feature.
 - Create additional game difficulty levels.
